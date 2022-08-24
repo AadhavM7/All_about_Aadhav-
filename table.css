@@ -1,0 +1,57 @@
+body{
+    background-color: cyan;
+    font-size: 50px;
+    text-align: center;
+    
+}
+table, td, th{
+    border: 2px solid black;
+    margin: auto;
+    border-collapse: collapse;
+    color: blue;
+    font-size: x-large;
+    
+    
+}
+table{
+    height: 50vh;
+    box-shadow: 3px 3px 3px goldenrod;
+    width: 50%;
+    
+    
+}
+h1{
+    text-align: center;
+    color: translucent;
+    
+    
+}
+caption{
+    font-weight: bolder;
+    
+    font-size: larger;
+    color: blue;
+}
+h1:hover{
+    transform: scale(1.4) rotate(360deg)
+}
+nav{
+    background-color:aquamarine;
+    height: 15%;
+    margin: 30px;
+  }
+  a:hover{
+    background-color: aquamarine;
+    box-shadow: 0px 0px 20px blueviolet;
+    border-radius: 20%;
+  }
+  a{
+    color:red;
+    text-decoration:none;
+    margin: 30px;
+  }
+  nav a{
+    height: 100px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }

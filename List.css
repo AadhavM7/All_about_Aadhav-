@@ -1,0 +1,35 @@
+body{
+    background: radial-gradient(red, orange);
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div{
+    margin-left: 45%;
+}
+li,dd{
+    color: green;
+}
+ul{
+    list-style-type: square;
+}
+nav{
+    height:15%;
+    margin:30px;
+    
+  }
+  a:hover{
+    background-color: aquamarine;
+    box-shadow: 0px 0px 20px blueviolet;
+    border-radius: 20%;
+  }
+  a{
+    color:red;
+    text-decoration:none;
+    margin: 30px;
+  }
+  nav a{
+    height: 50px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }

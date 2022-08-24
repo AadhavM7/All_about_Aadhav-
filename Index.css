@@ -1,0 +1,72 @@
+body{
+    background: radial-gradient(aqua 60%, aquamarine 30%);
+  }
+
+  head{ 
+   color: aquamarine;
+   font-size: 0vmax;
+   font-family: 'Times New Roman', Times, serif;  
+  }
+  h1{
+      color: blue;
+      font-size: xx-large;
+      font-family: monospace;
+      text-align: center;
+
+      
+  }
+  h2{
+      color: blue;
+      font-size: xx-large;
+      font-family: monospace;
+      
+      
+      }
+  h3{
+    color: red;
+    font-size: x-large;
+  }
+    p{
+      color: darkgoldenrod;
+      font-size: larger;
+      text-align: left;
+      
+    }
+    img {
+      border: 5px dashed blueviolet;
+      border-radius: 500px;
+      width: 500px;
+      height: auto;
+      display: block;
+      margin: auto;
+    }
+    img:hover{
+      box-shadow: 10px 10px 10px;
+      opacity: 65%;
+    }
+    nav{
+      background-color:aquamarine;
+      height: 15%;
+      margin: 30px;
+    }
+    a:hover{
+      background-color: aquamarine;
+      box-shadow: 0px 0px 20px blueviolet;
+      border-radius: 20%;
+    }
+    a{
+      color:red;
+      text-decoration:none;
+      margin: 30px;
+    }
+    nav a{
+      height: 100px;
+      padding: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    #logo{
+      margin-right: 30px;
+      width: 100px;
+      height: auto;
+    }
+    
